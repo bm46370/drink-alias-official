@@ -2,10 +2,7 @@
 
 Drink Alias is android game developed by brumbo. Enjoy playing it.
 
-```markdown
-
 [Link](url) and ![Image](src)
-```
 
 ##Privacy policy
 
